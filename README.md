@@ -1,5 +1,5 @@
 # Project-Toast
-IT Projects and Contributions Portfolio Display
+IT Projects and Portfolio Display
 
 Table of Contents
 
